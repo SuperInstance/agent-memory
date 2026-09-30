@@ -3,7 +3,9 @@ name = "agent-memory"
 description = "Memory system for AI agents: episodic, semantic, procedural with decay"
 version = "0.1.0"
 license = "MIT OR Apache-2.0"
-repository = "https://github.com/casey-digennaro/agent-memory"
+repository = "https://github.com/SuperInstance/agent-memory"
 edition = "2021"
+
+keywords = ["agent-memory"]
 
 [dependencies]
